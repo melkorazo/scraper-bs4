@@ -1,4 +1,4 @@
-# Web Scraper para prueba técnica
+# Web Scraper
 
 _Se utiliza BeautifulSOUP4, lxml y Requests en Python para obtener datos de la Web: http://books.toscrape.com/index.html._
 
