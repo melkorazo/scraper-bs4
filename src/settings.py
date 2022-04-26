@@ -16,7 +16,7 @@ TIME_ZONE = 'America/Santiago'
 
 LANGUAGE_CODE = 'es-cl'
 
-SECRET_KEY = '30*!+cpgfd_68mp$df3&+nrvra-31jv60k$2u2-@k+a5%c8bo+'
+SECRET_KEY = 't}Fii=A-2s\VWg;>mvowQ,w(.+P,3C1b?(wx-6KM(PhrzLS%'
 
 DEBUG = os.getenv('DEBUG', True)
 
