@@ -6,7 +6,7 @@ class Start(object):
             @email fabian@aravena.dev
         
     """
-    url = 'http://books.toscrape.com/index.html'
+    url = 'https://books.toscrape.com/index.html'
 
     def main(self):
         Process(self.url).process()

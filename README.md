@@ -1,11 +1,11 @@
-# Web Scraper para prueba técnica
+# Web Scraper en Python
 
-_Se utiliza BeautifulSOUP4, lxml y Requests en Python para obtener datos de la Web: http://books.toscrape.com/index.html._
+_POC usando BeautifulSOUP4, lxml, Requests y ORM de DJANGO en Python para obtener los libros de la Web http://books.toscrape.com/index.html y almacenarlos organizados en una base de datos local SQLite._
 
 ## Requisitos previos
 
 1. Python 3
-2. virtualenv (pip install virtualenv)
+2. virtualenv (python -m pip install virtualenv)
 
 ## Instrucciones de uso
 
@@ -30,7 +30,7 @@ source .ENV/bin/activate
 
 ### 2. Instalar paquetes requeridos
 
-Una vez activado el ambiente virtual, instalamos los paquetes necesarios para utilizar ejecutar el programa.
+En el ambiente virtual, instalamos los paquetes necesarios para ejecutar el programa.
 
 ```
 pip install -r requirements.txt
